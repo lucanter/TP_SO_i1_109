@@ -1,3 +1,7 @@
 Nombre: Juan Ignacio Mazzucchelli Puente	
 IP:	192.168.0.25
 Hora:	11:55
+
+Nombre: Juan Gabriel Palermo
+IP: 192.168.0.11
+Hora: 12:00
