@@ -8,3 +8,5 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
 a-Si
 b-Si
+c-Si
+d-Por WhatsApp
