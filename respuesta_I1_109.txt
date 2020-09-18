@@ -10,3 +10,5 @@ a-Si
 b-Si
 c-Si
 d-Por WhatsApp
+e-A traves de los commits y un archivo de tecto complementario. Tambien pueden utilizarse aplicaciones
+  paralelas como Slack.
